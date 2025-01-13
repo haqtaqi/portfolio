@@ -5,4 +5,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link  | Description |Dashboard Link |
 | ------------- | ------------- |------------- |
 | Pfizer Stock Analysis  | This Tableau project visualizes Pfizer's yearly stock price trends and highlights the strong correlation between its revenue and profit, showcasing the company's financial growth. The analysis supports Pfizer as a "Buy" due to its consistent profitability and robust market performance.|Content Cell  |
-| Disney Stock Analaysis  | Content Cell  |Content Cell  |
+| Disney Stock Analaysis  | This Tableau project visualizes Disney's yearly stock price trends and examines the correlation between its revenue and profit, showcasing its financial strength. The analysis supports Disney as a "Buy," driven by consistent profitability and upcoming blockbuster movie releases expected to boost growth. |Content Cell  |
