@@ -1,7 +1,7 @@
 # portfolio
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
-# heading Tableu
+# Tableu
 | Project Link  | Description |Dashboard Link |
 | ------------- | ------------- |------------- |
 | Pfizer Stock Analysis  | Content Cell  |Content Cell  |
