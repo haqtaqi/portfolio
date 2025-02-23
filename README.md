@@ -11,7 +11,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description | Skills |
 |---|---|---|
-| 💲 [Cashapp Spending](https://github.com/haqtaqi/portfolio) |I analyzed my Cash App spending by exporting transaction data into Microsoft Excel, where I used pivot tables, sorting, and filtering to categorize expenses and identify spending patterns. This project provided insights into my financial habits, helping me visualize where my money goes each month.	 | Pivot Table & Sorting |
+| 💲 [Cashapp Spending](https://github.com/haqtaqi/portfolio) |I analyzed my Cash App spending by exporting transaction data into Microsoft Excel, where I used pivot tables, sorting, and filtering to categorize expenses and identify spending patterns. This project provided insights into my financial habits, helping me visualize where my money goes each month.| Pivot Table & Sorting |
+| 🏆 [Top Customers](https://github.com/haqtaqi/portfolio) | Cleaned and filtered data to show top 10 customers and monthly income for a client in Microsoft Excel.| Pivot Table & Sorting |
 
 
 # Python
